@@ -41,6 +41,6 @@ I am a Data Scientist and Analytics Engineer focused on building robust Machine 
 
 ### 📫 Connect with Me
 
-* 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com)
-* 📧 **Email:** your.email@gmail.com
+* 💼 **LinkedIn:** [linkedin.com/in/Muhammad Izzat](https://www.linkedin.com/in/muhammad-izzat-a26045424/)
+* 📧 **Email:** mizzat3002@gmail.com
 * 🐙 **GitHub:** [github.com/mizzat3002](https://github.com/mizzat3002)
