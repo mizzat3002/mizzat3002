@@ -48,8 +48,8 @@ I am a **Data Scientist and Analytics Engineer** focused on building robust Mach
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mizzat3002&show_icons=true&theme=transparent&title_color=007bff&text_color=ffffff&icon_color=007bff" alt="Izzat Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mizzat3002&layout=compact&theme=transparent&title_color=007bff&text_color=ffffff" alt="Top Langs" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mizzat3002&show_icons=true&theme=radical" alt="Izzat Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mizzat3002&theme=radical" alt="Streak Stats" height="165" />
 </p>
 
 ---
