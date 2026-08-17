@@ -17,9 +17,9 @@ I am a **Data Scientist and Analytics Engineer** focused on building robust Mach
 
 ### 🚀 About Me
 
-- 🌱 **Currently Learning:** Production-level MLOps, Scalable Cloud Orchestration, and LLM Applications (Hugging Face).
+- 🌱 **Currently Learning:** Production-level MLOps, Scalable Cloud Orchestration, and LLM Applications.
 - 🔍 **Expertise:** End-to-end ML pipelines, Cloud-native data architecture, and Automated data validation.
-- 🌐 **Fun Fact:** Before writing Python code, I was managing real-time emergency situations and logistics for large international travel groups in the Middle East!
+- 🌐 **Background:** Studying legal frameworks honed my logic, while managing Umrah logistics trained me in rapid execution—qualities I now apply to Data Science.
 
 ---
 
@@ -27,29 +27,29 @@ I am a **Data Scientist and Analytics Engineer** focused on building robust Mach
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
-| **ML & AI** | `Scikit-Learn` `TensorFlow` `SciPy` `Feature Engineering` `Time Series` `Hugging Face` |
-| **Data Eng & Cloud** | `PostgreSQL` `Google BigQuery` `Apache Airflow` `Elasticsearch` `Docker` `Great Expectations` |
-| **BI & Analytics** | `Tableau` `Power BI` `Looker Studio` `Kibana` `AWS QuickSight` `Pandas` `NumPy` |
+| **Languages** | `Python` `SQL (Advanced)` |
+| **ML & AI** | `Scikit-Learn` `TensorFlow` `SciPy` `Feature Engineering` `Hugging Face` |
+| **Data Eng** | `PostgreSQL` `BigQuery` `Apache Airflow` `Elasticsearch` `Docker` |
+| **BI & Tools** | `Tableau` `Power BI` `Looker Studio` `Kibana` `Pandas` `NumPy` |
 
 ---
 
 ### ⚡ Featured Projects
 
 *   **🎓 [UTBK Major Recommendation System](https://github.com/mizzat3002/your-major-app)**
-    Built an end-to-end KNN recommendation engine analyzing **86.5k+ exam records**.
+    KNN recommendation engine analyzing **86.5k+ exam records**.
 *   **📦 Retail Inventory ETL Pipeline**
-    Automated ETL workflow using **Airflow & Great Expectations** for 73k+ transactional records.
+    Automated ETL workflow using **Airflow & Great Expectations**.
 *   **🧠 Stroke Risk Prediction**
-    Real-time ML classification pipeline deployed on **Hugging Face** for medical risk scoring.
+    ML classification pipeline deployed for real-time medical risk scoring.
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mizzat3002&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Izzat's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mizzat3002&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mizzat3002&show_icons=true&theme=transparent&title_color=007bff&text_color=ffffff&icon_color=007bff" alt="Izzat Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mizzat3002&layout=compact&theme=transparent&title_color=007bff&text_color=ffffff" alt="Top Langs" height="150" />
 </p>
 
 ---
@@ -57,8 +57,8 @@ I am a **Data Scientist and Analytics Engineer** focused on building robust Mach
 ### 📫 Connect with Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/muhammad-izzat-a26045424/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Muhammad Izzat" height="30" width="40" /></a>
-<a href="mailto:mizzat3002@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="mizzat3002@gmail.com" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muhammad-izzat-a26045424/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:mizzat3002@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mizzat3002@gmail.com" /></a>
 </p>
 
 ---
