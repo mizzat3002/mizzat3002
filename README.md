@@ -19,7 +19,7 @@ I am a **Data Scientist and Analytics Engineer** focused on building robust Mach
 
 - 🌱 **Currently Learning:** Production-level MLOps, Scalable Cloud Orchestration, and LLM Applications.
 - 🔍 **Expertise:** End-to-end ML pipelines, Cloud-native data architecture, and Automated data validation.
-- 🌐 **Background:** Studying legal frameworks honed my logic, while managing Umrah logistics trained me in rapid execution—qualities I now apply to Data Science.
+- 🌐 **Background:** Studying legal frameworks honed my logic, while managing Umrah logistics trained me in rapid execution.
 
 ---
 
@@ -48,7 +48,7 @@ I am a **Data Scientist and Analytics Engineer** focused on building robust Mach
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mizzat3002&show_icons=true&theme=radical" alt="Izzat Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mizzat3002&layout=compact&theme=radical" alt="Top Langs" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mizzat3002&theme=radical" alt="Streak Stats" height="165" />
 </p>
 
